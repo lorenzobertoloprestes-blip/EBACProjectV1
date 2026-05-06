@@ -1,5 +1,0 @@
-[17492:7324:0324/135139.141:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17492:17516:0324/135139.180:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17492:7324:0324/135139.201:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3340:1716:0324/135144.610:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FDC63BACE5F6D4052810E924D9E4E179 will be ignored
-[17492:7324:0324/135159.618:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension ihcjicgdanjaechkgeegckofjjedodee
