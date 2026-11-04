@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Megaplant_Library/Shrub_Greasewood/Instances/SK_GW_Cluster_6.uasset
+Content/Megaplant_Library/Shrub_Greasewood/Instances/GW_Cluster_8.uasset
+Content/Megaplant_Library/Shrub_Greasewood/Textures/T_Greasewood_01_Foliage_CA.uasset
+Content/Megaplant_Library/Shrub_Greasewood/Textures/T_Greasewood_01_Bark_NAH.uasset
+*.uasset
+Content/OldWall/Map/Demo.umap
